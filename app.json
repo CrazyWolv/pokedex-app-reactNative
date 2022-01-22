@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pokedex-app-cirkwi",
-    "slug": "pokedex-app-cirkwi",
+    "name": "pokedex-app",
+    "slug": "pokedex-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
